@@ -2,7 +2,7 @@ package zjazd2;
 
 public class Main {
 	public static void main(String[] args) {
-		String[] tablica = {"1", "6", "1", "a"};
+		String[] tablica = {"1", "6", "1"};
 		System.out.println(sum(tablica));
 	}
 	
